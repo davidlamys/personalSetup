@@ -1,0 +1,3 @@
+echo ":set number" >> ~/.vimrc
+echo ":set number" >> ~/.vimrc
+
