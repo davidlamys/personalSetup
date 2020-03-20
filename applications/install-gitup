@@ -3,4 +3,4 @@
 wget https://s3-us-west-2.amazonaws.com/gitup-builds/stable/GitUp.zip
 unzip GitUp.zip
 rm GitUp.zip
-mv GitUp.app ~/Applications/GitUp.app
+mv ~/GitUp.app /Applications/GitUp.app
